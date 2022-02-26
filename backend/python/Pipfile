@@ -11,8 +11,6 @@ pandas = "==1.4.1"
 tensorflow-cpu = "==2.8.0"
 
 [dev-packages]
-tensorflow-macos = "==2.8.0"
-tensorflow-metal = "==0.4.0"
 flake8 = "*"
 autopep8 = "*"
 
