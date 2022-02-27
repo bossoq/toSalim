@@ -120,7 +120,7 @@ const App = () => {
                 <input
                   type={'text'}
                   className="md:text-xl text-base col-span-3 border border-gray-500 bg-amber-200 rounded-lg p-3"
-                  placeholder={'ใส่คำเสี่ยวๆ ที่นี่'}
+                  placeholder={'ลองใส่ข้อความดูสิ'}
                   value={text}
                   onChange={handleChange}
                 ></input>
