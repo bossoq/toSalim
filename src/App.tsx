@@ -133,7 +133,7 @@ const App = () => {
                   <span className="absolute right-4 w-8 h-8 border-b-2 border-r-2 border-gray-900 rounded-full animate-spin inline-block"></span>
                 )}
                 <div
-                  className={`md:text-xl max-w-lg break-words break-all min-h-full max-h-max text-base col-span-3 border border-gray-500 bg-blue-200 rounded-lg p-3 ${
+                  className={`md:text-xl max-w-lg break-words break-all min-h-0 max-h-max text-base col-span-3 border border-gray-500 bg-blue-200 rounded-lg p-3 ${
                     !loaded && 'text-zinc-600'
                   }`}
                 >
